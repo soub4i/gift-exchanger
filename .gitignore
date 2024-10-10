@@ -5,6 +5,7 @@
 *.dylib
 
 *.test
+*.bundle
 
 vendor/
 dist/
